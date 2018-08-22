@@ -1,7 +1,9 @@
 # test local image
 test images
-![]({{"hehe.jpg"|absolute_url}})
-![]({{"hehe.jpg"}})
-![]({{"./hehe.jpg"|absolute_url}})
-![]({{"./hehe.jpg"}})
-<!-- ![]({{"hehe.jpg"|absolute_url}}) -->
+![]({{"./assets/hehe.jpg"|absolute_url}})
+![]({{"./assets/hehe.jpg"}})
+
+
+
+![](./assets/hehe.jpg)
+![](./assets/hehe.jpg|absolute_url)
