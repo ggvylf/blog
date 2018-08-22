@@ -1,2 +1,2 @@
 # test local image
-![](./assets/hehe.jpg|absolute_url)
+![]({{./assets/hehe.jpg|absolute_url}})
